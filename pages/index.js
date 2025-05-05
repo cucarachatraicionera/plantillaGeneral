@@ -20,7 +20,7 @@ export default function Home() {
       }}>
         <h1 style={{ fontSize: '3rem', color: '#0e7490' }}>👋 ¡Olaaa!</h1>
         <p style={{ marginTop: '1rem', fontSize: '1.5rem', color: '#0369a1' }}>
-          Ya tenemos el dominio y el servidor comprado.
+          Ya tenemos el dominio y el servidor comprado LATORRE DEJA TU VISAJE JAJAAJAJA.
         </p>
         <p style={{ marginTop: '0.5rem', fontSize: '1.2rem', color: '#0891b2' }}>
           De aquí pa' allá... 🚀 ¡Arrancamos el desarrollo con toda!
